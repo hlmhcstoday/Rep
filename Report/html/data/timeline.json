@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC201710191626",
+    "children" : [ {
+      "name" : "6252-MainThread",
+      "children" : [ {
+        "name" : "Test_allure.test_al[3]",
+        "uid" : "4e9c88280b0887",
+        "parentUid" : "fa91582f52f9b1958bea14085a135bfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1517557893891,
+          "stop" : 1517557893891,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_allure.test_al[2]",
+        "uid" : "e2b9d3a0e08a128",
+        "parentUid" : "fa91582f52f9b1958bea14085a135bfc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1517557893866,
+          "stop" : 1517557893891,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_allure.test_al[1]",
+        "uid" : "fe67fafabf8a942b",
+        "parentUid" : "fa91582f52f9b1958bea14085a135bfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1517557893856,
+          "stop" : 1517557893863,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fa91582f52f9b1958bea14085a135bfc"
+    } ],
+    "uid" : "ada8d550a94ed24e6a0fd353a83044fc"
+  } ]
+}

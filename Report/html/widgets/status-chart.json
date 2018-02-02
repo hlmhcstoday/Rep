@@ -1,0 +1,31 @@
+[ {
+  "uid" : "4e9c88280b0887",
+  "name" : "Test_allure.test_al[3]",
+  "time" : {
+    "start" : 1517557893891,
+    "stop" : 1517557893891,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2b9d3a0e08a128",
+  "name" : "Test_allure.test_al[2]",
+  "time" : {
+    "start" : 1517557893866,
+    "stop" : 1517557893891,
+    "duration" : 25
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe67fafabf8a942b",
+  "name" : "Test_allure.test_al[1]",
+  "time" : {
+    "start" : 1517557893856,
+    "stop" : 1517557893863,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

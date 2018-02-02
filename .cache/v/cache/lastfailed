@@ -1,0 +1,4 @@
+{
+  "scripts/test_all.py::Test_allure::()::test_al": true,
+  "scripts/test_all.py::Test_allure::()::test_al[2]": true
+}
